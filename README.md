@@ -44,3 +44,4 @@ $ g++ mainPage.cpp -lGL -lGLU -lglut -o SkyBlue3D && ./SkyBlue3D
  
  ![alt tag](https://raw.githubusercontent.com/DeekshithShetty/Pokemon-SkyBlue-3D-Version/master/Snapshots/snapshot-5.png)
 
+[![Run on Repl.it](https://repl.it/badge/github/DeekshithShetty/pokemon-skyblue-3d)](https://repl.it/github/DeekshithShetty/pokemon-skyblue-3d)
